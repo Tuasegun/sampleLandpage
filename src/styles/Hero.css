@@ -1,0 +1,33 @@
+.hero-container{
+    margin-top: 10px;
+    height: 850px;
+    display: flex;
+    margin-left: 150px;
+}
+.text-content {
+    height: 400px;
+    width: 400px;
+   
+}
+
+.context {
+    font-size: 50px;
+    display: block;
+    margin-top: 150px;
+}
+
+.text-1 {
+    color: #f35f78;
+}
+
+button {
+    height: 40px;
+    width: 190px;
+    border-radius: 25px;
+    border: none;
+    background-color: #f35f78;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+}

@@ -1,0 +1,18 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo {
+    
+    color: black;
+    font-size: 30px;
+    margin-left: 150px;
+
+}
+
+
+.icon {
+    color: black;
+    font-size: 30px;
+}
